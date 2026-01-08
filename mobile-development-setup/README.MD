@@ -4,7 +4,7 @@
 
 1. Opened the **Google Play Store** on my Android device.
 2. Searched for **Expo Go**.
-3. Downloaded and installed the Expo Go application successfully.
+3. Downloaded and installed the Expo Go application successfully..
 
 ## Account Setup
 
