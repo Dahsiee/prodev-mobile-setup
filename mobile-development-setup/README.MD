@@ -20,4 +20,9 @@
 
 ## Challenges Faced
 
-- ## No major challenges encountered during setup.
+- No challanges faced during setup
+
+## Next Steps
+
+- Connect Expo Go with my React Native project.
+- Test the first sample app to ensure the environment is working correctly.
