@@ -10,4 +10,7 @@ Create the first mobile application using the **Expo Router** template and under
    ```bash
    cd prodev-mobile-setup
    ```
-   reset-project
+
+## reset-project
+
+reset-project
