@@ -1,3 +1,4 @@
+
 import { Text, View, StyleSheet, Image, ImageBackground, Dimensions, TouchableOpacity } from "react-native";
 import { SafeAreaView, SafeAreaProvider } from "react-native-safe-area-context";
 
@@ -6,13 +7,13 @@ export default function Index() {
     <SafeAreaProvider>
       <SafeAreaView style={{ flex: 1 }}>
         <ImageBackground
-          source={require("../assets/background-image.png")}
+          source={require("@/assets/images/background-image.png")}
           style={styles.background}
           resizeMode="cover"
         >
           <View style={styles.container}>
             <View style={styles.companyLogo}>
-              <Image source={require("../assets/Logo.png")} />
+              <Image source={require("@/assets/images/Logo.png")} />
             </View>
 
             <View style={styles.textGroup}>
@@ -41,7 +42,6 @@ export default function Index() {
     </SafeAreaProvider>
   );
 }
-
 const styles = StyleSheet.create({
   container: {
     flex: 1,
